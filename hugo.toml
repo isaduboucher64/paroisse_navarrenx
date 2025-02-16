@@ -1,0 +1,35 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr-fr'
+title = 'Paroisse Saint-François Xavier'
+theme = ["toha"]
+defaultContentLanguage = "fr"
+publishDir = "docs"
+
+[params]
+    description = "toto"
+
+
+[languages]
+    [languages.fr]
+       languageCode = "fr-fr"
+       languageDirection = "ltr"
+       languageName = "French"
+       weight = 1
+
+[menus]
+    [[menus.main]]
+        name = "La paroisse"
+        pageRef = "/paroisse"
+        weight = 10
+    [[menus.main]]
+        name = "La vie communautaire"
+        pageRef = "/community"
+        weight = 20
+    [[menus.main]]
+        name = "Contact"
+        pageRef = "/contact"
+        weight = 30
+    [[menus.main]]
+        name = "Dons"
+        pageRef = "/gift"
+        weight = 40
