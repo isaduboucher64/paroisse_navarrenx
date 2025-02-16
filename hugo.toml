@@ -19,17 +19,17 @@ publishDir = "docs"
 [menus]
     [[menus.main]]
         name = "La paroisse"
-        pageRef = "/paroisse"
+        URL = "/paroisse"
         weight = 10
     [[menus.main]]
         name = "La vie communautaire"
-        pageRef = "/community"
+        URL = "/la-vie-communautaire"
         weight = 20
     [[menus.main]]
         name = "Contact"
-        pageRef = "/contact"
+        URL = "/contact"
         weight = 30
     [[menus.main]]
-        name = "Dons"
-        pageRef = "/gift"
+        name = "Don"
+        URL = "/don"
         weight = 40
