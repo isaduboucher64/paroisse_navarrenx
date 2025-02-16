@@ -16,6 +16,11 @@ publishDir = "docs"
        languageName = "French"
        weight = 1
 
+[markup]
+    [markup.goldmark]
+         [markup.goldmark.renderer]
+             unsafe = true
+
 [menus]
     [[menus.main]]
         name = "La paroisse"
