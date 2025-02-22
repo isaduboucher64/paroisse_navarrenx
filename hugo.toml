@@ -6,7 +6,9 @@ defaultContentLanguage = "fr"
 publishDir = "docs"
 
 [params]
-    description = "toto"
+    description = "Paroisse Saint-François Xavier de Navarrenx et Sauveterre"
+    [params.logo]
+        favicon = "images/logo.png"
 
 [languages]
     [languages.fr]
