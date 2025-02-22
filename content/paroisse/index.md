@@ -32,7 +32,7 @@ Notre paroisse couvre deux églises :
 
 # Les prêtres
 
-- Abbé Paul-marie Boutin
+- Père Paul-marie Boutin, Abbé,
   curé de la paroisse\
   <i class="fa fa-phone"></i> 06 40 46 51 01\
   <i class="fa-solid fa-envelope"></i> paulmarie.boutin@gmail.com
