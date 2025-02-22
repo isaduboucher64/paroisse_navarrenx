@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paroisse Saint-François Xavier</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Paroisse Saint-François Xavier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 15 Feb 2025 14:47:06 +0100</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Sat, 15 Feb 2025 14:47:06 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>Gift</title>
-      <link>https://example.org/don/</link>
+      <link>http://localhost:1313/don/</link>
       <pubDate>Sat, 15 Feb 2025 14:47:06 +0100</pubDate>
       
-      <guid>https://example.org/don/</guid>
+      <guid>http://localhost:1313/don/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.org/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Sat, 15 Feb 2025 14:46:55 +0100</pubDate>
       
-      <guid>https://example.org/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>La vie communautaire</title>
-      <link>https://example.org/la-vie-communautaire/</link>
+      <link>http://localhost:1313/la-vie-communautaire/</link>
       <pubDate>Sat, 15 Feb 2025 14:46:35 +0100</pubDate>
       
-      <guid>https://example.org/la-vie-communautaire/</guid>
+      <guid>http://localhost:1313/la-vie-communautaire/</guid>
       <description>&lt;h1 id=&#34;la-vie-communautaire&#34;&gt;La vie communautaire&lt;/h1&gt;
 &lt;h2 id=&#34;annuaire-paroissial&#34;&gt;Annuaire paroissial&lt;/h2&gt;
 &lt;p&gt;Voici l&amp;rsquo;organisation des équipes paroissiales.&lt;/p&gt;
 &lt;h2 id=&#34;eap-organigramme&#34;&gt;EAP: Organigramme&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/images/EAP_organigramme.jpg&#34; alt=&#34;eap organigramme&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/EAP_organigramme.jpg&#34; alt=&#34;eap organigramme&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;eap-pôles&#34;&gt;EAP: Pôles&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/images/EAP_pole1.jpg&#34; alt=&#34;eap poles (1/2)&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://example.org/images/EAP_pole2.jpg&#34; alt=&#34;eap poles (2/2)&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/EAP_pole1.jpg&#34; alt=&#34;eap poles (1/2)&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/EAP_pole2.jpg&#34; alt=&#34;eap poles (2/2)&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Paroisse</title>
-      <link>https://example.org/paroisse/</link>
+      <link>http://localhost:1313/paroisse/</link>
       <pubDate>Sat, 15 Feb 2025 14:44:58 +0100</pubDate>
       
-      <guid>https://example.org/paroisse/</guid>
+      <guid>http://localhost:1313/paroisse/</guid>
       <description>&lt;p&gt;Notre paroisse couvre deux églises :&lt;/p&gt;
 &lt;h2 id=&#34;eglise-saint-françois-xavier-navarrenx&#34;&gt;Eglise Saint François-Xavier (Navarrenx)&lt;/h2&gt;
 &lt;h3 id=&#34;infos-pratiques&#34;&gt;Infos pratiques&lt;/h3&gt;
