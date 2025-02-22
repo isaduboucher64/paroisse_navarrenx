@@ -5,7 +5,7 @@ title = 'Paroisse'
 +++
 Notre paroisse couvre deux églises : 
 
-## Eglise Saint François-Xavier (Navarrenx)
+## Eglise Saint François-Xavier<br /> (Navarrenx)
 ### Infos pratiques
 
 - <i class="fa-solid fa-crosshairs"></i>: située au 32 place Darrade, 64190 Navarrenx
@@ -15,7 +15,7 @@ Notre paroisse couvre deux églises :
     - <i class="fa fa-phone"></i>: 05 59 66 50 59
     - <i class="fa-solid fa-envelope"></i>: paroissenavarrenx64@gmail.com
 
-## Eglise Saint-André (Sauveterre de béarn)
+## Eglise Saint-André<br />(Sauveterre de béarn)
 ### Infos pratiques
 
 - <i class="fa-solid fa-location-crosshairs"></i>: 2 rue de l'abbé Duplech, 64390 Sauveterre de Béarn
