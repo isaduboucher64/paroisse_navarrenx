@@ -8,7 +8,6 @@ publishDir = "docs"
 [params]
     description = "toto"
 
-
 [languages]
     [languages.fr]
        languageCode = "fr-fr"
@@ -24,17 +23,17 @@ publishDir = "docs"
 [menus]
     [[menus.main]]
         name = "La paroisse"
-        URL = "/paroisse"
+        pageRef = "/paroisse"
         weight = 10
     [[menus.main]]
         name = "La vie communautaire"
-        URL = "/la-vie-communautaire"
+        pageRef = "/la-vie-communautaire"
         weight = 20
     [[menus.main]]
         name = "Contact"
-        URL = "/contact"
+        pageRef = "/contact"
         weight = 30
     [[menus.main]]
         name = "Don"
-        URL = "/don"
+        pageRef = "/don"
         weight = 40
