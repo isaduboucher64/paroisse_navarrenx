@@ -37,27 +37,27 @@ Notre paroisse couvre deux églises :
   <i class="fa fa-phone"></i> 06 40 46 51 01\
   <i class="fa-solid fa-envelope"></i> paulmarie.boutin@gmail.com
 
-- Abbé Sanche de Franssu, vicaire
+- Abbé Sanche de Franssu, vicaire\
   <i class="fa fa-phone"></i> 06 67 31 39 87\
   <i class="fa-solid fa-envelope"></i>absanchedefranssu@gmail.com
 
-- Abbé Paul Dinh Van Hoan
+- Abbé Paul Dinh Van Hoan\
   <i class="fa fa-phone"></i> 06 43 16 23 65\
   <i class="fa-solid fa-envelope"></i>pauldinhvanhoan@yahoo.com
 
 # Les religieuses
 Servantes du Seigneur et de la Vierge de Matara
 
-- Mère Maria de Luz
+- Mère Maria de Luz\
   <i class="fa fa-phone"></i> 06 50 20 26 01
 
-- Soeur Soli
+- Soeur Soli\
   <i class="fa fa-phone"></i> 06 67 65 07 19
 
-- Soeur Marie de Lourdes
+- Soeur Marie de Lourdes\
   <i class="fa fa-phone"></i> 07 43 01 16 57
 
-- Soeur Maria delle Beatitudini
+- Soeur Maria delle Beatitudini\
   <i class="fa fa-phone"></i> 06 67 61 32 66
 
 # Horaires des messes
