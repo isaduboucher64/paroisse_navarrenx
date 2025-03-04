@@ -1,1 +1,6 @@
-<div class="subtitle pb-2 text-sm md:text-base text-center font-bold text-[#fd0802]">{{ .content }}</div>
+{{ if( eq .extraContent "" ) }}
+    <div class="subtitle pb-2 text-sm md:text-base text-center font-bold text-[#fd0802]">{{ .content }}</div>
+{{ else }}
+    <div class="subtitle text-sm md:text-base text-center font-bold text-[#fd0802]">{{ .content }}</div>
+    <div class="subtitle pb-2 text-sm md:text-base text-center font-bold text-[#fd0802]">{{ .extraContent }}</div>
+{{ end }}

@@ -50,31 +50,31 @@
     <div class="bg-transparent border-dotted border-1 flex flex-row justify-around gap-3 h-[48vh] w-full fixed bottom-0 left-0 px-4 md:px-8 lg:px-24">
       <div class="card bg-transparent cursor-pointer my-[2.5%] w-sm font-[Anton] menu-card">
         {{- partial "sections/title.html" (dict "content" "Paroisse de Navarrenx") }}
-        <div class="card-body flex flex-row align-items-center justify-content-center">
-          <a href="{{ site.BaseURL }}/paroisse">{{- partial "sections/subsubtitle.html" (dict "content" "Je clique ici pour en savoir plus") }}</a>
+        <div class="card-body flex flex-row align-items-center justify-content-center  mb-[4rem]">
+          <a href="{{ site.BaseURL }}paroisse">{{- partial "sections/subsubtitle.html" (dict "content" "Je clique ici " "contentExtra" "pour en savoir plus") }}</a>
         </div>
       </div>
 
       <div class="card bg-transparent cursor-pointer my-[2.5%] w-sm font-[Anton]  menu-card">
         {{- partial "sections/title.html" (dict "content" "Paroisse de Sauveterre") }}
-        <div class="card-body flex flex-row align-items-center justify-content-center">
-          <a href="{{ site.BaseURL }}/paroisse">{{- partial "sections/subsubtitle.html" (dict "content" "Je clique ici pour en savoir plus") }}</a>
+        <div class="card-body flex flex-row align-items-center justify-content-center  mb-[4rem]">
+          <a href="{{ site.BaseURL }}paroisse">{{- partial "sections/subsubtitle.html" (dict "content" "Je clique ici " "contentExtra" "pour en savoir plus") }}</a>
         </div>
       </div>
 
       <div class="card bg-transparent cursor-pointer my-[2.5%] w-sm font-[Anton]  menu-card">
         {{- partial "sections/title.html" (dict "content" "J'ai une question") }}
         <div class="card-body flex flex-col justify-content-center align-items-center">
-          {{- partial "sections/subtitle.html" (dict "content" "Baptême, funérailles, mariage")}}
-          <a href="{{ site.BaseURL }}/contact">{{- partial "sections/subsubtitle.html" (dict "content" "Je clique ici pour en savoir plus") }}</a>
+          <a href="{{ site.BaseURL }}contact">{{- partial "sections/subsubtitle.html" (dict "content" "Je clique ici " "contentExtra" "pour en savoir plus") }}</a>
+          {{- partial "sections/subtitle.html" (dict "content" "Baptême, mariage, " "extraContent" "funérailles")}}
         </div>
       </div>
 
       <div class="card bg-transparent cursor-pointer my-[2.5%] w-sm font-[Anton]  menu-card">
         {{- partial "sections/title.html" (dict "content" "Accueil des pélerins") }}
-        <div class="card-body flex flex-col justify-content-center align-items-center">
+        <div class="card-body flex flex-col justify-content-center align-items-center mb-[2rem]">
+          <a href="{{ site.BaseURL }}paroisse"> {{- partial "sections/subsubtitle.html" (dict "content" "Je clique ici " "contentExtra" "pour en savoir plus") }}</a>
           {{- partial "sections/subtitle.html" (dict "content" "Possible entre Avril et Octobre")}}
-          <a href="{{ site.BaseURL }}/la-vie-communautaire"> {{- partial "sections/subsubtitle.html" (dict "content" "Je clique ici pour en savoir plus") }}</a>
         </div>
       </div>
     </div>

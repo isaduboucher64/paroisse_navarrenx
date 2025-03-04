@@ -1098,6 +1098,12 @@
   .mb-10 {
     margin-bottom: calc(var(--spacing) * 10);
   }
+  .mb-\[2rem\] {
+    margin-bottom: 2rem;
+  }
+  .mb-\[4rem\] {
+    margin-bottom: 4rem;
+  }
   .mb-auto {
     margin-bottom: auto;
   }
@@ -3625,10 +3631,10 @@
       line-height: var(--tw-leading, var(--text-base--line-height));
     }
   }
-  .md\:text-sm {
+  .md\:text-lg {
     @media (width >= 48rem) {
-      font-size: var(--text-sm);
-      line-height: var(--tw-leading, var(--text-sm--line-height));
+      font-size: var(--text-lg);
+      line-height: var(--tw-leading, var(--text-lg--line-height));
     }
   }
   .lg\:px-24 {

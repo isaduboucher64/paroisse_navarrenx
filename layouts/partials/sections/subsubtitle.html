@@ -1,1 +1,8 @@
-<span class="text-xs md:text-sm text-center text-[#1b3d3d] font-bold">{{ .content }}</span>
+<style>
+    .text-custom {
+        font-size: 10px;
+        color:#1b3d3d;
+    }
+</style>
+<span class="text-sm md:text-lg text-center text-[#1b3d3d] font-bold">{{ .content }}</span><br />
+<span class="text-left text-custom font-bold">{{ .contentExtra }}</span>
