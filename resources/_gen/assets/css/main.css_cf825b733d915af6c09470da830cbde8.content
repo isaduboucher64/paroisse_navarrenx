@@ -2179,9 +2179,6 @@
   .\!bg-gray-700 {
     background-color: var(--color-gray-700) !important;
   }
-  .bg-\[url\(\'\/images\/card_bg\.png\)\'\] {
-    background-color: url()'/images/card bg.png)';
-  }
   .bg-black {
     background-color: var(--color-black);
   }
