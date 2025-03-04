@@ -47,7 +47,7 @@
       
       <guid>http://localhost:1313/paroisse/</guid>
       <description>&lt;p&gt;Notre paroisse couvre deux églises :&lt;/p&gt;
-&lt;h2 id=&#34;eglise-saint-françois-xavierbrbrnavarrenx&#34;&gt;Eglise Saint François-Xavier&lt;br&gt;&lt;/br&gt;(Navarrenx)&lt;/h2&gt;
+&lt;h2 id=&#34;eglise-saint-françois-xavierbr--navarrenx&#34;&gt;Eglise Saint François-Xavier&lt;br /&gt; (Navarrenx)&lt;/h2&gt;
 &lt;h3 id=&#34;infos-pratiques&#34;&gt;Infos pratiques&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;i class=&#34;fa-solid fa-crosshairs&#34;&gt;&lt;/i&gt;: située au 32 place Darrade, 64190 Navarrenx&lt;/li&gt;
@@ -63,7 +63,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;eglise-saint-andrébrbrsauveterre-de-béarn&#34;&gt;Eglise Saint-André&lt;br&gt;&lt;/br&gt;(Sauveterre de béarn)&lt;/h2&gt;
+&lt;h2 id=&#34;eglise-saint-andrébr-sauveterre-de-béarn&#34;&gt;Eglise Saint-André&lt;br /&gt;(Sauveterre de béarn)&lt;/h2&gt;
 &lt;h3 id=&#34;infos-pratiques-1&#34;&gt;Infos pratiques&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;i class=&#34;fa-solid fa-location-crosshairs&#34;&gt;&lt;/i&gt;: 2 rue de l&amp;rsquo;abbé Duplech, 64390 Sauveterre de Béarn&lt;/li&gt;
@@ -84,7 +84,7 @@
 &lt;h1 id=&#34;les-prêtres&#34;&gt;Les prêtres&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Abbé Paul-marie Boutin
+&lt;p&gt;Père Paul-marie Boutin, Abbé,
 curé de la paroisse&lt;br&gt;
 &lt;i class=&#34;fa fa-phone&#34;&gt;&lt;/i&gt; 06 40 46 51 01&lt;br&gt;
 &lt;i class=&#34;fa-solid fa-envelope&#34;&gt;&lt;/i&gt; &lt;a href=&#34;mailto:paulmarie.boutin@gmail.com&#34;&gt;paulmarie.boutin@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
