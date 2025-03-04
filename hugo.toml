@@ -1,12 +1,12 @@
 baseURL = 'https://example.org/'
 languageCode = 'fr-fr'
-title = 'Paroisse Saint-François Xavier'
+title = 'Paroisse de Sauveterre-Navarrenx'
 theme = ["toha"]
 defaultContentLanguage = "fr"
 publishDir = "docs"
 
 [params]
-    description = "Paroisse Saint-François Xavier de Navarrenx et Sauveterre"
+    description = "Paroisse de Sauveterre-Navarrenx"
     [params.logo]
         favicon = "images/logo.png"
 
